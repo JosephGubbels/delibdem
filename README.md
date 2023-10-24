@@ -1,2 +1,2 @@
 # delibdem
-Experimentation on my personal site: delibdem.com
+Experimentation on my personal site: https://delibdem.com
